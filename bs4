@@ -1,0 +1,10 @@
+#!/usr/bin/python3
+import os,sys
+
+try:
+        charact = sys.argv[1]
+        os.system(f"echo -n '{charact}' | base64 -d")
+except:
+        tool_name = sys.argv[0]
+        print ("usage : ")
+        print (f"\t{tool_name} <character_to_decode>")
